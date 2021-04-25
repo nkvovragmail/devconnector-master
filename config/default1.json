@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://admin:admin@cluster0-shard-00-00.dq77p.mongodb.net:27017,cluster0-shard-00-01.dq77p.mongodb.net:27017,cluster0-shard-00-02.dq77p.mongodb.net:27017/devconnector?ssl=true&replicaSet=atlas-v1cf8y-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "jwtSecret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
